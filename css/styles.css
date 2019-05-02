@@ -1,0 +1,19 @@
+body {
+	background-color: grey;
+}
+
+#thoughts {
+	width: 500px;
+}
+
+#craig {
+	position: absolute;
+	top: 30px;
+	right: 30px;
+}
+
+#dropContainer {
+	position: absolute;
+	top: 30px;
+	right: 30px;
+}
